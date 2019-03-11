@@ -1,5 +1,7 @@
 // add solution here
 function theNeatlesPlay(musicians, instruments) {
   var temp = [];
-  for ()
+  for (i =0; i < musicians.length; i++) {
+    
+  }
 }
