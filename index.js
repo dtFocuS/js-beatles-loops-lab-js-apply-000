@@ -23,5 +23,6 @@ function iLoveTheBeatles(number) {
   do {
     numResults[i] = "I love the Beatles!";
     i++;
+    number++;
   } while (number < 15)
 }
