@@ -1,7 +1,9 @@
 // add solution here
 function theNeatlesPlay(musicians, instruments) {
-  var temp = [];
+  var results = [];
   for (i = 0; i < musicians.length; i++) {
-    for (j )
+    var temp = musicians[i] + " plays " + instruments[i];
+    results[i] = temp;
   }
+  return results;
 }
